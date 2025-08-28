@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/Giagu15/">Data Analyst</a>, <a href="https://www.linkedin.com/in/gianellaarevalo/"> Busines Analyst</a>, <a href="https://www.youtube.com/@gianellaarevaloh"> Interviewer</a></h1>
+<h1>Hi, I'm Gianella! <br/><a href="https://github.com/Giagu15/">Data Analyst</a>, <a href="https://www.linkedin.com/in/gianellaarevalo/"> Busines Analyst</a>, <a href="https://www.youtube.com/@gianellaarevaloh"> Interviewer</a></h1>
 
 <h2>👨‍💻 Data & Analytics Projects:</h2>
 
